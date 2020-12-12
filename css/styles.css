@@ -26,7 +26,10 @@ html {
         url('../images/bg-pattern-bottom-mobile.svg');
     background-size: contain, contain;
     background-repeat: no-repeat;
-
+    background-size: contain, contain;
+    background-position: 
+            top 3rem left 0,
+            bottom -7rem left 0;
 }
 
 .headline {
